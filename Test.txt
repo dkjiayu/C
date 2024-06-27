@@ -1,5 +1,4 @@
 ﻿Hello
 cxx_plus!!!
-<<<<<<< HEAD
 Changed by github.com!!!Testconflicted111
 
